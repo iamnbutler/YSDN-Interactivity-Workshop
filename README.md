@@ -59,7 +59,7 @@
     * Text as image on the web (And when to use this sometimes nessisary evil)
 * Adding Interactivity
 
---- Project Complete ---
+*--- Project Complete ---*
 
 ### Week 3 - Creating a Blog with Wordpress
 
@@ -94,7 +94,7 @@
 * I'll have to run through Wordpress again before I figure out what belongs in this week
 * The customized theme will basically be the bootstrap site except powered by Wordpress
 
---- Project Complete ---
+*--- Project Complete ---*
 
 ### Week 5 (Optional + Advanced) - Beyond Basic Web Development
 
@@ -103,6 +103,7 @@
   * Trello/Basecamp
   * Github - Branches & Wikis
 * How Technologies Work
+  * How web content is served
   * jQuery
   * Coffee Script
   * SASS

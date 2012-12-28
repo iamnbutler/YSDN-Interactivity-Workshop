@@ -1,0 +1,21 @@
+.masthead {
+	height: 280px;
+	background-image: url(../img/masthead-bg.png);
+}
+
+.masthead .logo {
+	margin: 0 auto;
+	padding-top: 60px;
+	position: relative;
+	left: -135px;
+	margin-left: 50%;
+}
+
+.masthead nav {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.masthead nav a {
+	color: #000;
+}
