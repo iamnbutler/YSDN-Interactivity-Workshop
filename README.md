@@ -3,6 +3,7 @@
 ##Schedule
 
 ###Week 1 - Creating A Basic Website Template
+#### Thursday, Jan 24th
 
 * Sublime Text 101
   * Installation
@@ -17,11 +18,6 @@
     * Indentation + Syntax
     * Classes over IDs
     * Naming your classes
-* Getting Started with SASS
-  * How is it different from regular CSS?
-  * Why should I use SASS?
-  * Splitting up stylesheets
-  * Using Variables
 * Installing Git
   * Command Line Git 101
 * Bootstrap and My First Template
@@ -68,7 +64,7 @@
   * PHP must be run from a server
   * Installing MAMP/XAMPP
 * PHP in 10 minutes
-  * This does NOT mean you know PPH
+  * This does NOT mean you know PHP
   * What a <?php ?> tag does
   * When & Where PHP is processed (1 minute)
   * The include() and require() tags
@@ -119,3 +115,11 @@
   * Ruby -> Ruby on Rails
     * HAML
   * Python
+
+----
+
+* Getting Started with SASS - Need own computers - week 5?
+  * How is it different from regular CSS?
+  * Why should I use SASS?
+  * Splitting up stylesheets
+  * Using Variables
