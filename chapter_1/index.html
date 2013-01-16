@@ -1,36 +1,98 @@
 <!DOCTYPE HTML>
 <html lang="en">
 	<head>
-		<title>Template</title>
 
+		<!-- Our title -->
+		<title>YSDN Interactivity Workshop</title>
+
+		<!-- This line is for mobile devices. It sets the initial size of the site -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<link rel="icon" type="image/png" href="">
+		<!-- Our favicon should be linked here -->
+		<link href="img/favicon.ico" rel="icon" type="image/x-icon" />
+
+		<!-- CSS style sheets are linked here -->
 		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<!-- <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen"> -->
 		<link rel="stylesheet" href="css/style.css">
 
 	</head>
 	<body>
+
+		<!-- Masthead - All of our header content goes here - This will always be the same -->
 		<div class="masthead">
 		  <div class="container">
+
+		  	<!-- Header logo -->
 		    <img src="img/logo.png" alt="Template" class="logo">
+		    
+		    <!-- Header navigation -->
 		    <nav>
 		    	<a href="#blog"><i class="icon-align-center"></i> Blog</a> | 
 		    	<a href="#print"><i class="icon-file"></i> Print</a> | 
-		    	<a href="#type"><i class="icon-font"></i> Type</a> | 
-		    	<a href="#web"><i class="icon-globe"></i> Web</a>
+		    	<a href="#web"><i class="icon-globe"></i> Web</a> |
+		    	<a href="#contact"><i class="icon-user"></i> Contact</a>
 		    </nav>
 		  </div>
 		</div>
 
-		<div class="container">
-			
-		</div>
+		<!-- Our body - The main section of the site - This will change based on the page -->
+		<div class="body container">
+			<div class="wrapper span12">
+						
+					<!-- Our intro "Hero Unit" -->
+					<div class="hero-unit">
+						<h1>Hello everyone!</h1>
+						<p>This is a simple intro block. You can use this to hold any information you might want, or get rid of it entirely. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi nulla eveniet veniam quo quos excepturi.</p>
+					</div>
+					
+					<!-- Thumbnails of our awesome work -->
+					<ul class="thumbnails">
 
+						<!-- Sample Thumbnail 1 -->
+						<li class="span4">
+							<div class="thumbnail">
+								<img src="img/sample-work/spider-man.jpg" data-src="holder.js/300x200" alt="Spider Man">
+								<div class="text">
+									<h3>Spider Man</h3>
+								    <p>Designed by <a href="http://www.behance.net/markomanev">Marko Manev</a>, these lovely minimalist Marvel posters can be found over on <a href="http://www.behance.net/gallery/Marvel-Minimalist-Posters/1829335">Behance</a>. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae dignissimos saepe laborum iusto voluptas natus odit. Mollitia alias quo ratione. </p>
+								</div>
+							</div>
+						</li>
+
+						<!-- Sample Thumbnail 2 -->
+						<li class="span4">
+							<div class="thumbnail">
+								<img src="img/sample-work/as-good-as-it-gets.jpg" data-src="holder.js/300x200" alt="As Good As It Gets">
+								<div class="text">
+									<h3>As Good As It Gets</h3>
+									<p>Take a look at these astounding vector movie posters by <a href="http://www.behance.net/Anzelmgabz">Grzegorz Domaradzk</a> See the complete set <a href="http://www.behance.net/gallery/VECTOR-MOVIE-POSTERS/146267">here</a>. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas tempora blanditiis soluta molestiae accusantium? Quisquam. </p>
+								</div>
+							</div>
+						</li>
+
+						<!-- Sample Thumbnail 3 -->
+						<li class="span4">
+							<div class="thumbnail">
+								<img src="img/sample-work/in-nostalgic-mood.jpg" data-src="holder.js/300x200" alt="">
+								<div class="text">
+									<h3>In Nostalgic Mood</h3>
+									<p>A beautifully relaxing piece by <a href="http://www.behance.net/tangyauhoong">Tang Yau Hoong</a>. The rest of this series, all on negative space, can be found on his <a href="http://www.behance.net/gallery/The-Art-of-Negative-Space/1316541">Behance</a>. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium delectus placeat soluta dolorum facere consequuntur sequi labore. </p>
+								</div>
+							</div>
+						</li>
+					</ul>
+					
+			</div> <!-- container -->
+		</div> <!-- body -->
+
+		<!-- Load the jQuery library from the jQuery server -->
 		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-		<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
 
+		<!-- Bootstrap's native scripts -->
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/scripts.js"></script>
+
+		<!-- This will be used in a later lesson -->
+		<!-- <script src="js/scripts.js"></script> -->
 	</body>
 </html>
