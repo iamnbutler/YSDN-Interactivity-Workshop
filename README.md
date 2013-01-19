@@ -6,12 +6,12 @@ Below you will find links to the wiki pages. Choose the appropriate page to get 
 
 ## Wiki
 
-### [Schedule] (https://github.com/iamnbutler/YSDN-Interactivity-Bootstrap/wiki/Schedule)
+### [Schedule] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Schedule)
 
-### [Week 1] (https://github.com/iamnbutler/YSDN-Interactivity-Bootstrap/wiki/Week-1) January 24th, 2013
+### [Week 1] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-1) January 24th, 2013
 
-### [Week 2] (https://github.com/iamnbutler/YSDN-Interactivity-Bootstrap/wiki/Week-2) TBD
+### [Week 2] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-2) TBD
 
-### [Week 3] (https://github.com/iamnbutler/YSDN-Interactivity-Bootstrap/wiki/Week-3) TBD
+### [Week 3] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-3) TBD
 
-### [Sample Work Sources] (https://github.com/iamnbutler/YSDN-Interactivity-Bootstrap/wiki/Sample-Work-Sources)
+### [Sample Work Sources] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Sample-Work-Sources)
