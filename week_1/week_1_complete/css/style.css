@@ -40,6 +40,14 @@
 	padding-top: 40px;
 }
 
+.blog {
+	margin-bottom: 40px;
+}
+
+.blog article p {
+	width: 85%;
+}
+
 .hero-unit p {
 	margin-top: 20px;
 }
