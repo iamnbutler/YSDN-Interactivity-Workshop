@@ -12,7 +12,7 @@ Below you will find links to the wiki pages. Choose the appropriate page to get 
 
 ### [Week 1] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-1) January 24th, 2013
 
-### [Week 2] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-2) TBD
+### [Week 2] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-2) February 28th, 2013
 
 ### [Week 3] (https://github.com/iamnbutler/YSDN-Interactivity-Workshop/wiki/Week-3) TBD
 
