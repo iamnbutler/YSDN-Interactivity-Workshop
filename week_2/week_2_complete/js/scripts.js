@@ -9,6 +9,22 @@ $(document).ready(function() {
 	// This makes it so that our scripts don't load
 	// before the page is ready
 	
-	
+	$('#blog').fadeIn(800);
+	$('#gallery').delay(800).fadeIn(800);
+	$('#about').delay(1600).fadeIn(800);
+
+	$('#gallery li').hover(
+		function() {
+			$(this).stop().animate({
+			    opacity: 1
+			}, 800);
+		},
+
+		function() {
+			$(this).stop().animate({
+			    opacity: 0.55
+			}, 800);
+		}
+	);
 
 });

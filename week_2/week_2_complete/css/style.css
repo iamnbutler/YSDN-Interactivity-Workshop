@@ -59,3 +59,11 @@
 .thumbnails p {
 	line-height: 1.7;
 }
+
+.blog, .gallery, .about {
+	display: none;
+}
+
+.gallery li {
+	opacity: 0.55;
+}
